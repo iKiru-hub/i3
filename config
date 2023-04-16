@@ -191,8 +191,9 @@ bar {
 
 ### CUSTOM ###
 
-# wallpaper
-exec_always --no-startup-id feh --bg-scale ~/Pictures/wallpapers/mondrian_1.jpg
+# wallpaper  || mndrian_1.jpg, circle_retro.png, marijuana_I.png
+exec_always --no-startup-id feh --bg-scale ~/Pictures/wallpapers/marijuana_I.png
+
 
 # keyboard layout to italian
 exec "setxkbmap -layout it"
